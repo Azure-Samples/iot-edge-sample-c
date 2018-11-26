@@ -2,7 +2,7 @@
   "$schema-version": "0.0.1",
   "description": "",
   "image": {
-    "repository": "${DEVOPS_IOTEDGE_REGISTRY_URL}/edge-sample-dotnet",
+    "repository": "${DEVOPS_IOTEDGE_REGISTRY_URL}/edge-sample-c",
     "tag": {
       "version": "0.0.1",
       "platforms": {
